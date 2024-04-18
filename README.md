@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -14,12 +7,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - [ScrollReveal](https://scrollrevealjs.org/)
 
-<br />
-<br />
+---
 
-<p align="center">
-  <a href="https://landingpage-e917.onrender.com" target="_blank">
-  </a>
-</p>
+<!--START_SECTION:footer-->
+
+<br />
+<br />
 
 <!--END_SECTION:footer-->
+
+---
+
+### Projeto em Produção
+
+Você pode acessar o projeto em produção através [deste link](https://landingpage-e917.onrender.com).
